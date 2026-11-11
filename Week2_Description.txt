@@ -1,0 +1,7 @@
+Week 2 Project Description (200+ words)
+
+This project demonstrates data visualization and insight communication using R and the Iris dataset. The dataset contains 150 flower observations belonging to Setosa, Versicolor, and Virginica, with measurements for sepal length, sepal width, petal length, and petal width. The dataset is publicly available and is widely used for learning statistical analysis and visualization.
+
+The project presents four visualizations: a bar chart of average petal length by species, a scatter plot comparing sepal length and petal length, a histogram showing the distribution of petal length, and a line chart comparing species-level mean petal length. Each chart is accompanied by a short interpretation explaining its purpose and the insight it communicates. The bar and line charts highlight differences in average petal size; the scatter plot illustrates the positive association between sepal and petal length and shows species clusters; and the histogram reveals groups in the petal-length distribution.
+
+The R script uses the ggplot2 library and includes code to generate and save the charts as image files. The CSV dataset and report are included so the analysis can be reproduced. The key conclusion is that Setosa generally has the smallest petals, while Virginica has the largest average petal length. The project focuses on clear, accurate, and accessible communication of patterns in data.
